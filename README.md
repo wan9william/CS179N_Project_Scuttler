@@ -1,2 +1,5 @@
 <a href="CS179N_group_13_report.pdf" class="image fit"><img src="CS179N_group_13_report.pdf" alt=""></a>
 Preview Trailer: https://www.youtube.com/watch?v=fwxm5uaK3a0&feature=youtu.be
+<a href="CS179N_group_13_report.pdf" class="image fit">
+  <img src="path/to/thumbnail.png" alt="CS179N Group 13 Report">
+</a>
